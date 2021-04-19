@@ -63,7 +63,7 @@ The below command will create an env file.
  touch .env
 ```
 ## Feedback
-Note: contact @avichalgupta for the environment variables configuration
+> Note: contact @avichalgupta for the environment variables configuration
 
 ## Commands
 #### Running Locally:
