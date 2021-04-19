@@ -88,4 +88,8 @@ npm run start-dev
 ```
 ionic cordova run ios --prod
 ```
+## How to contribute
+```
+```
+
 
