@@ -22,6 +22,7 @@ A- Angular
 N- NodeJS
 
 ```
+<img src = "img/https://github.com/Sagarm7/high4teens_README/blob/main/img/nodejs-logo-FBE122E377-seeklogo.com.png">
 
 ## Installation Guide
  ## Step 1 : clone the repo:
