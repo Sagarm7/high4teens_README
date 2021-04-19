@@ -48,11 +48,11 @@ ionic -v
 ```
 Note : Ionic version should be 4 or  above.
 
- #### Step 5 : Install the dependencies:
+ ## Step 5 : Install the dependencies:
  ```
  npm install
 ```
- #### Step 6 : Set the environment variables:
+ ## Step 6 : Set the environment variables:
 Change the current working directory to the location where you cloned the directory.
 The below command will create an env file.
  ```
