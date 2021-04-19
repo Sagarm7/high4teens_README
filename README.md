@@ -77,14 +77,14 @@ npm run start-dev
 ## Deploying
 #### Progressive Web App
 ```
-Run ionic build --prod
+ ionic build --prod
 ```
 #### Android
 ```
-Run ionic cordova run android --prod
+ ionic cordova run android --prod
 ```
 #### iOS
 ```
-Run ionic cordova run ios --prod
+ionic cordova run ios --prod
 ```
 
