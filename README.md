@@ -2,6 +2,14 @@
 
 ## About
  High4teens is an app made for the writers community.The high4teens community was created for producing strong pills of positivity, love and motivation, aiming to inject, right into the Heart and Brain!
+ 
+ ## Table of content
+ 1. *Tech stack
+ 2. *Installation Guide
+ 3. *Feed back
+ 4. *Commands
+ 5. *Deploying
+ 6. *How to contribute 
 
 
 ## Tech Stack
@@ -62,7 +70,7 @@ The below command will create an env file.
  touch .env
 ```
 ## Feedback
-> Note: contact @avichalgupta for the environment variables configuration
+> Note: contact [@AvichalGupta](https://github.com/AvichalGupta) for the environment variables configuration
 
 ## Commands
 #### Running Locally:
