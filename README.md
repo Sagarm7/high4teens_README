@@ -22,7 +22,10 @@ A- Angular
 N- NodeJS
 
 ```
-<img src = "img/https://github.com/Sagarm7/high4teens_README/blob/main/img/nodejs-logo-FBE122E377-seeklogo.com.png">
+<img src = "img/https://github.com/Sagarm7/high4teens_README/blob/main/img/nodejs-logo-FBE122E377-seeklogo.com.png" width = "100" height = "100">
+<img src = "https://github.com/Sagarm7/high4teens_README/blob/main/img/angular.png" width = "100" height = "100">
+<img src ="https://github.com/Sagarm7/high4teens_README/blob/main/img/express-logo.png" width = "100" height = "100">
+<img src = "https://github.com/Sagarm7/high4teens_README/blob/main/img/Unknown" width = "100" height = "100">
 
 ## Installation Guide
  ## Step 1 : clone the repo:
