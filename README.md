@@ -17,7 +17,7 @@ N- NodeJS
 ```
 
 ## Installation Guide
- #### Step 1 : clone the repo:
+ ## Step 1 : clone the repo:
 ##### Cloning a repository using the command line:
 
 Above the list of files, click  Code.
@@ -58,6 +58,7 @@ The below command will create an env file.
  ```
  touch .env
 ```
+
 
 ## Commands
 #### Running Locally:
