@@ -33,6 +33,10 @@ git clone <repo_url>
 
  ```
 ## Step 2 : Install NodeJS
+Install NodeJs from the link given below
+https://nodejs.org/en/
+Then run this code to check the current version of it.
+
 ```
 node -v
 ```
