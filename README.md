@@ -17,8 +17,8 @@
 Tech Stack: 
 MEAN Stack with Ionic 4.
 M- MongoDB
-E- Express
 A- Angular
+E- Express
 N- NodeJS
 
 ```
