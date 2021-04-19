@@ -18,7 +18,7 @@ N- NodeJS
 
 ## Installation Guide
  ## Step 1 : clone the repo:
-##### Cloning a repository using the command line:
+### Cloning a repository using the command line:
 
 Above the list of files, click  Code.
 Open Terminal.
