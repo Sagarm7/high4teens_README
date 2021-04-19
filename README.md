@@ -17,14 +17,14 @@
 Tech Stack: 
 MEAN Stack with Ionic 4.
 M- MongoDB
-A- Angular
 E- Express
+A- Angular
 N- NodeJS
 
 ```
 <img src = "https://github.com/Sagarm7/high4teens_README/blob/main/img/nodejs.png" width = "100" height = "100">
-<img src = "https://github.com/Sagarm7/high4teens_README/blob/main/img/angular.png" width = "100" height = "100">
 <img src ="https://github.com/Sagarm7/high4teens_README/blob/main/img/express-logo.png" width = "100" height = "100">
+<img src = "https://github.com/Sagarm7/high4teens_README/blob/main/img/angular.png" width = "100" height = "100">
 <img src = "https://github.com/Sagarm7/high4teens_README/blob/main/img/Unknown" width = "100" height = "100">
 
 ## Installation Guide
