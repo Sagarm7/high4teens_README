@@ -1,9 +1,9 @@
 # README
 
 ## About
-```
-High4teens is an app made for the writers community.The high4teens community was created for producing strong pills of positivity, love and motivation, aiming to inject, right into the Heart and Brain!
-```
+
+> High4teens is an app made for the writers community.The high4teens community was created for producing strong pills of positivity, love and motivation, aiming to inject, right into the Heart and Brain!
+
 
 ## Tech Stack
 ```
