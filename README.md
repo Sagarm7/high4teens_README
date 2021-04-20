@@ -18,7 +18,7 @@
 <img src ="https://github.com/Sagarm7/high4teens_README/blob/main/img/express-logo.png" width = "100" height = "100">
 <img src = "https://github.com/Sagarm7/high4teens_README/blob/main/img/angular.png" width = "100" height = "100">
 <img src = "https://github.com/Sagarm7/high4teens_README/blob/main/img/nodejs.png" width = "100" height = "100">
-<img src = "https://github.com/Sagarm7/high4teens_README/blob/main/img/1*n4CyQHuwfubDvor-c8Qquw.png" width = "100" height = "80">
+<img src = "https://github.com/Sagarm7/high4teens_README/blob/main/img/ionic.png" width = "100" height = "80">
 
 
 ## Installation Guide
